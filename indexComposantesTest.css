@@ -1,0 +1,187 @@
+.container {
+    margin: 0 auto;
+    background-color: rgb(190, 190, 242);
+}
+
+.section1 {
+    height: 40%;
+    margin: 4% 4% 4%;
+    display: flex;
+
+}
+
+.block1 {
+    width: 70%;
+    margin-right: 5%;
+    border: solid white;
+    border-radius: 30%;
+    display: flex;
+    background-color: white;
+    border-radius: 50px;
+    padding: 20px 20px 20px 20px;
+}
+
+.pic {
+    border-radius: 50px;
+    height: 90%;
+    width: 45%;
+}
+
+.text {
+    padding: 18px 18px 18px 18px;
+}
+
+.P1 {
+    font-weight: bold;
+}
+
+.profil {
+    display: flex;
+}
+
+.photo {
+    border-radius: 50px;
+    width: 70px;
+    height: 70px;
+}
+
+.nomphoto {
+    padding-right: 30%;
+}
+
+.P {
+    font-weight: bold;
+}
+
+.block2 {
+    width: 20%;
+    background-color: white;
+    border-radius: 50px;
+    margin-right: 5%;
+}
+
+.imgnom {
+    display: flex;
+    margin: 10px 10px 10px 10px ;
+}
+
+.img22 {
+    border-radius: 40%;
+    height: 80px;
+    width: 80px;
+}
+
+.name22 {
+    padding: 20px 20px 20px 20px;
+}
+
+
+.section2 {
+    height: 55%;
+    display: flex;
+    width: 100%;
+}
+
+.block21 {
+    background-color: white;
+    border:solid white;
+    border-radius: 50px;
+    width:35% ;
+}
+
+.P21{
+    width: 100%;
+    height: 50%;
+    border-radius: 50px;
+    border:solid;
+    margin-right: 5%;
+}
+.B {
+    font-weight: bold;
+}
+
+.profil2{
+    display: flex;
+}
+.im{
+    height: 80px;
+    width: 80px;
+    border-radius: 50px;
+    border: solid white;
+}
+.space{
+ margin-left: 10px;
+}
+.block22{
+    display: flex;
+    width: 65%;
+}
+.block221{
+    display: flex;
+    width: 100%;
+}
+.ecoute{
+    background-color: white;
+    border-radius: 40px;
+    justify-content: center;
+    margin: 5% 5% 5% 5%;
+    width: 55%;
+    height: max-content;
+}
+.listen{
+    padding: 10px 10px 10px 10px;
+    height: 100px;
+    display: flex;
+    border-radius: 50px;
+    width: 95%;
+}
+.pilice{
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+}
+.police{
+    display: flex;
+    margin-right: 5%;
+}
+.intutilés{
+    display: flex;
+    justify-content: center;
+}
+
+
+.maison{
+display: flex;
+border-radius:50px ;
+background-color: white;
+padding: 5px 5px 5px 5px ;
+width: 45%;
+height: 250px;
+}
+
+.frites{
+    border-radius: 50px;
+    height:80%;
+    width:90%;
+    padding: 10px 10px 10px 10px;
+}
+.frigo{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+}
+.houseprice{
+    width: 45%;
+    display: flex;
+}
+
+.chariot{
+    width: 40px;
+    height: 40px;
+}
+.BI{
+    font-size:x-large;
+}
+.block222{
+    display: flex;
+}
